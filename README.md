@@ -6,7 +6,7 @@ Hide or show Discord with any shortcut.
 
 -	Setting keybinds (Default: `CTRL+Y`)
 -	Unregistering keybind
--	Minimizing even if Discord open in the background instead of bringing in front
+-	Minimizing when another window is in front of Discord instead of bringing in to front
 
 # Roadmap
 
