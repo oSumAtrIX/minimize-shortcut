@@ -11,7 +11,7 @@ Hide or show Discord with any shortcut.
 # Roadmap
 
 -	Finish `KeybindRecorder`
--	Get window visibility state
+-	Get window visibility state to hide or show properly
 
 # Contribute
 
@@ -19,4 +19,4 @@ I am stuck with the issues mentioned above so feel free to fork & pull request f
 
 # Motivation
 
-[Inve1951](https://github.com/Inve1951/BetterDiscordStuff/blob/master/plugins/minimizeShortcut.plugin.js)
+[@Inve1951](https://github.com/Inve1951/BetterDiscordStuff/blob/master/plugins/minimizeShortcut.plugin.js)
